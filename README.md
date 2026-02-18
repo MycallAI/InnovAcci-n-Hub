@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Status](https://img.shields.io/badge/Status-Strategic%20Planning-blue)](https://mycalla.inc)
 
-<img src="https://img.icons8.com/fluency/150/000000/network-tower.png" alt="MYCALLA Logo" align="left" style="margin-right: 25px" height=150>
+<img src="https://avatars.githubusercontent.com/u/201142132?v=4" alt="MYCALLA Logo" align="left" style="margin-right: 25px" height=150>
 
 > **MYCALLA INC.** is a forward-thinking entity dedicated to bridging Puerto Rico's connectivity gaps. By merging investment banking rigor, bioengineering-inspired systems, and heavy data analysis, MYCALLA aims to transform the island's ICT landscape into a resilient, high-integrity ecosystem.
 
